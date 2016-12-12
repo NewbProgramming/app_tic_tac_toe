@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\bin\Debug\app_tic_tac_toe.exe.config
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\bin\Debug\app_tic_tac_toe.exe
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\bin\Debug\app_tic_tac_toe.pdb
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.csprojResolveAssemblyReference.cache
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.tic_tac_toe.resources
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.Properties.Resources.resources
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.csproj.GenerateResource.Cache
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.exe
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.pdb
+C:\OneDrive\Documents\Projects\app_tic_tac_toe\app_tic_tac_toe\obj\Debug\app_tic_tac_toe.window_game.resources
